@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjectApp", "NinjectApp.csproj", "{3DAFFED4-BC28-4303-8CB0-80F3314B6CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DAFFED4-BC28-4303-8CB0-80F3314B6CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DAFFED4-BC28-4303-8CB0-80F3314B6CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DAFFED4-BC28-4303-8CB0-80F3314B6CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DAFFED4-BC28-4303-8CB0-80F3314B6CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {863809B7-BFEF-41AD-8633-0D75EFA1D40C}
+	EndGlobalSection
+EndGlobal
